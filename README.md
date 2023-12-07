@@ -9,7 +9,7 @@ step1: create a veriable and call it name or what you wish.
 
 step2: create an array container that will hold your veriables.
 
-step3: then use sort method to sort the array in the container using an alert()
+step3: then use sort method to sort the array in the container using an alert().
 
 step4: after which, a simple function was introduced to be able to shuffle the array with a Math function merged simultaneously without any conflict. just like a nested function,writing a function inside of another funtion which can be called a method in javascript.
 
