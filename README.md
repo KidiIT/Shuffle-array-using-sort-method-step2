@@ -3,9 +3,13 @@
 
 Before getting us to what we need to know know, I want to let y'all know that this program might be one of the shortest code you've seen so far been used to shuffle an array with javascript. 
 My algorithm are as follows:
+
 step1: create a veriable and call it name or what you wish. 
+
 step2: create an array container that will hold your veriables.
+
 step3: then use sort method to sort the array in the container using an alert()
+
 step4: after which, a simple function was written to be able to shuffle the array with Math function merged simultaneously without any conflict. just like a nested function,writing a function inside of another funtion which can be called a method in javascript.
 However, i believe y'all has an indepth understanding on what happened on the step 1 of my program. if you do then congratulation you're ready to advance and will be able to undertsand what will happen on the step 2.
 
