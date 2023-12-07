@@ -1,4 +1,5 @@
 # Shuffle array using sort method step2
+
  To begin with, I'm so happy about what am about to share with y'all today.on one hand,when we talk about shuffling of array it's easy to think of the steps to use when writing your algorithm to solve the probelm.on the other hand,getting your array shuffle after stating your steps is another issue to work on. that will lead us to the algorithm I used to  solve the problem. 
 
 Before getting us to what we need to know know, I want to let y'all know that this program might be one of the shortest code you've seen so far been used to shuffle an array with javascript. 
