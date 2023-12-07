@@ -10,7 +10,8 @@ step2: create an array container that will hold your veriables.
 
 step3: then use sort method to sort the array in the container using an alert()
 
-step4: after which, a simple function was written to be able to shuffle the array with Math function merged simultaneously without any conflict. just like a nested function,writing a function inside of another funtion which can be called a method in javascript.
-However, i believe y'all has an indepth understanding on what happened on the step 1 of my program. if you do then congratulation you're ready to advance and will be able to undertsand what will happen on the step 2.
+step4: after which, a simple function was introduced to be able to shuffle the array with a Math function merged simultaneously without any conflict. just like a nested function,writing a function inside of another funtion which can be called a method in javascript.
 
-NOTE: If you'd ask for my advise, on my end I'll encourage anyone using this program to understand what happened on the code first before using it. because It'll go a long way for you. that been said, I'd love y'all to compare and contrast  step1 and stpe2 on how to shuffle array using sort method. will love to get your reviews and comments on the discussion section also I'm always open to new ideas and advise. Thank y'all and you're welcome!🙃
+However, i believed y'all has an indepth understanding on what happened on the step 1 of my program on how to shuffle an using sort method step 1. if you do then congratulation you're ready to advance and will be able to undertsand what will happen on the step 2.
+
+NOTE: If you'd ask for my advise, on my end I'll encourage anyone using this program to understand what happened on this code first before using it. because It'll go a very long way for you. that been said, I'd love y'all to compare and contrast  step1 and stpe2 on how to shuffle array using sort method. looking forward for y'all reviews and comments on the discussion section or you can contact me directly if you have any difficulties on the program. also, I'm always open to new ideas that will sharpen and impact my skills positively. Thank y'all and you're welcome!🙃
